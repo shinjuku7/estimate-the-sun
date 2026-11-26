@@ -1,0 +1,9 @@
+# Python 3.12.10
+numpy==2.5.1
+pandas==3.1.1
+scipy==1.18.1
+scikit-learn==1.9.1
+lightgbm==4.7.0
+threadpoolctl==3.8.0
+# Round 2 neural models use the CPU backend.
+torch==2.15.0
